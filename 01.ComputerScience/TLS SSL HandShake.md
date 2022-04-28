@@ -34,9 +34,9 @@
 ## HandShake
 
 - 채널에 대한 정상적인 통신이 시작되기 전, 두 채널의 통신 보안에 쓸 파라미터를 정하는 과정이다.
-- 순서는 아래와 같다
+- 순서는 아래와 같다 (출처 : gyoogle.com)
 
-![Untitled](TLS%20SSL%20HandShake%206bc8d8ae10534670bbcdf7c85737ab5e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/62974220/165809696-f4d6fc6c-b321-451a-b354-f08defb7ad80.png)
 
 ### 1. Client Hello
 
