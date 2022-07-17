@@ -9,6 +9,6 @@
 <br><br>
 코로나 이후 재택으로 PC를 사용하는 경우가 늘어나면서 Shadow IT를 통제하기는 더욱 어려워졌다. 여러 블로그를 살펴보았는데, 코로나 이후 즉 2020년 이후에는 Shadow IT 자체를 근절하는 것은 어려운 일이며, 기업에서 이를 유기적으로 포용할 수 있는 방안을 찾아야 한다는 의견이 중론인 듯하다.
 
-## 기사
-[IT World 용어풀이 | 섀도우 IT](https://www.itworld.co.kr/news/105209)
+### 기사
+[IT World 용어풀이 | 섀도우 IT](https://www.itworld.co.kr/news/105209)<br>
 [4차 산업혁명의 '아이콘' 스마트 팩토리, 사이버공격에 맥 못춰… 캡제미니 보고서](https://www.ciokorea.com/news/243624)
